@@ -1,2 +1,2 @@
-# mi_tienda
-Sistema de Ventas
+# mi_app
+Cuanto le cobras un cortesito a tu hombre MIMU...
